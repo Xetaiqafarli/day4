@@ -1,0 +1,9 @@
+mkdir ~/Desktop/first_day_stuff
+touch ~/Desktop/first_day_stuff/first-day.html
+cd ~/Desktop/first_day_stuff
+
+mkdir A B
+touch ~ /Desktop/first_day_stuff/ A B
+
+
+
